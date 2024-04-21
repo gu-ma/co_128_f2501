@@ -1,4 +1,4 @@
-# CO_128_f2401 / Crafting interactive narratives for art & design
+# Crafting interactive narratives for art & design
 
 ## Intro
 
