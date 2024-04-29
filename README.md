@@ -8,10 +8,8 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 
 ## Content
 
-- [Week01](notes/week01) - **On-site** :school:
-- [Week02](notes/week02) - On-site :school:
-- [Week03](notes/week03) - On-site :school:
-- ...
+- [Week01](notes/week01)
+- [Week02](#) - tba
 
 ## Class
 
@@ -32,13 +30,13 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 
 ### Evaluation criteria:
 
-- Attendance, participation and engagement in others' projects (1/3)
+- Attendance, participation and engagement in each others' projects (1/3)
 - Research, Documentation (1/3)
 - Project(s) (1/3)
 
 ### Deliverables:
 
-- Presentation(s) + Documentation(s)
+- Presentation(s) + Documentation(s) + Source(s)
 
 ## Academic integrity
 
