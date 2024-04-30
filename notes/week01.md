@@ -94,6 +94,12 @@ TBC
 
 ## Day 05 - Self study (remote / on-site) :house:
 
+### Themes
+
+- Mini presentation
+- Going deeper into the theme(s)
+- Reflecting on the week
+
 ### Schedule
 
 | Time          | Desc                    |
@@ -102,9 +108,3 @@ TBC
 | 10:30 - 12:00 | **Mini presentations**  |
 | 12:00 - 13:00 | Lunch break :hamburger: |
 | 13:00 - 16:00 | Individual work         |
-
-### Themes
-
-- Mini presentation
-- Going deeper into the theme(s)
-- Reflecting on the week
