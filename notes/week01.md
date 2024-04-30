@@ -31,7 +31,7 @@ Use [this link](https://forms.gle/P2saZjSdj3efVjob7) if the form does not show u
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNaJuZE6_yyDTxo5vH55QvA5HA-u876coILBAppk2FyZm5uQ/viewform?embedded=true" width="100%" height="748" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
 {% endraw %}
 
-## Day 02 - Tools -  - [Recording :clapper:](https://drive.switch.ch/index.php/s/ApNbXDvHPWGJvJa)
+## Day 02 - Tools - [Recording :clapper:](https://drive.switch.ch/index.php/s/ApNbXDvHPWGJvJa)
 
 ### Themes
 
