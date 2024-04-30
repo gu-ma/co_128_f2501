@@ -2,7 +2,7 @@
 
 This week we focus on learning the basis of TD and start experimenting with the tools (hardware + software)
 
-## Day 01
+## Day 01 - [Recording :clapper:](https://drive.switch.ch/index.php/s/C63gR9U1DARSwPo)
 
 ### Themes
 
@@ -28,10 +28,10 @@ This week we focus on learning the basis of TD and start experimenting with the 
 Use [this link](https://forms.gle/P2saZjSdj3efVjob7) if the form does not show up below
 
 {% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNaJuZE6_yyDTxo5vH55QvA5HA-u876coILBAppk2FyZm5uQ/viewform?embedded=true" width="100%" height="648" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNaJuZE6_yyDTxo5vH55QvA5HA-u876coILBAppk2FyZm5uQ/viewform?embedded=true" width="100%" height="748" frameborder="0" marginheight="0" marginwidth="0" frameborder="no">Loading…</iframe>
 {% endraw %}
 
-## Day 02 - Tech
+## Day 02 - Tools -  - [Recording :clapper:](https://drive.switch.ch/index.php/s/ApNbXDvHPWGJvJa)
 
 ### Themes
 
