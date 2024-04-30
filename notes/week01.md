@@ -54,6 +54,14 @@ Use [this link](https://forms.gle/P2saZjSdj3efVjob7) if the form does not show u
 | 13:30 - 14:00 | TD Fundamentals - Part 02       |
 | 14:00 - 16:00 | Individual work                 |
 
+### Outing
+
+Use [this link](https://forms.gle/m86Kb4onY9pJkxH46) if the form does not show up below
+
+{% raw %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds32iX8CcQVGaF28dcFKXv6HsRH1YFtwvZSN_2kCMGWiTEng/viewform?embedded=true" width="100%" height="1889" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+{% endraw %}
+
 ## Day 03 - Process
 
 ### Themes
