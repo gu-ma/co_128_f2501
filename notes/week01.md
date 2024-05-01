@@ -64,33 +64,52 @@ Use [this link](https://forms.gle/m86Kb4onY9pJkxH46) if the form does not show u
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds32iX8CcQVGaF28dcFKXv6HsRH1YFtwvZSN_2kCMGWiTEng/viewform?embedded=true" width="100%" height="1889" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {% endraw %}
 
-## Day 03 - Process
+## Day 03 - Process - [Recording :clapper:]()
 
 ### Themes
 
 - Case studies / Examples / References
-- Documenting / Journaling
+- Documenting / Journaling / Storytelling
 - Strategies
 - Prototyping
 
 ### Schedule
 
-| Time          | Desc                                 |
-| ------------- | ------------------------------------ |
-| 9:00 - 9:15   | Hi :wave:                            |
-| 9:15 - 9:30   | Documenting / Journaling             |
-| 9:30 - 9:45   | Case studies / Examples / References |
-| 9:45 - 10:00  | Strategies of Interactive Art        |
-| 10:00 - 11:30 | Individual work                      |
-| 11:30 - 12:00 | Q&A                                  |
-| 12:00 - 13:00 | Lunch break :hamburger:              |
-| 13:00 - 13:30 | Catching up (questions, etc...)      |
-| 13:30 - 14:00 | TD Fundamentals - Continued          |
-| 14:00 - 16:00 | Individual work                      |
+| Time          | Desc                                    |
+| ------------- | --------------------------------------- |
+| 9:00 - 9:15   | Hi :wave:                               |
+| 9:15 - 9:30   | Documenting / Journaling / Storytelling |
+| 9:30 - 9:45   | Case studies / Examples / References    |
+| 9:45 - 10:00  | Strategies of Interactive Art           |
+| 10:00 - 11:30 | Individual work                         |
+| 11:30 - 12:00 | Q&A                                     |
+| 12:00 - 13:00 | Lunch break :hamburger:                 |
+| 13:00 - 13:30 | Catching up (questions, etc...)         |
+| 13:30 - 14:00 | TD Fundamentals - Continued             |
+| 14:00 - 16:00 | Individual work                         |
 
-## Day 04
+## Day 04 - Self study (remote / on-site) :house:
 
-TBC
+### Themes
+
+- TouchDesigner Q&A
+- Hardware:
+  - What we have
+  - What we (might) need
+- Group making (form)
+
+### Schedule
+
+| Time          | Desc                            |
+| ------------- | ------------------------------- |
+| 9:00 - 9:15   | Hi :wave:                       |
+| 9:15 - 10:00  | TD Input (Prepare questions)    |
+| 10:00 - 10:30 | Hardware Roundup                |
+| 10:30 - 12:00 | Individual work                 |
+| 12:00 - 13:00 | Lunch break :hamburger:         |
+| 13:00 - 13:30 | Catching up (questions, etc...) |
+| 13:30 - 14:00 | TD Input (Prepare questions)    |
+| 14:00 - 16:00 | Individual work                 |
 
 ## Day 05 - Self study (remote / on-site) :house:
 
@@ -102,9 +121,9 @@ TBC
 
 ### Schedule
 
-| Time          | Desc                    |
-| ------------- | ----------------------- |
-| 10:00 - 10:30 | Hi :wave:               |
-| 10:30 - 12:00 | **Mini presentations**  |
-| 12:00 - 13:00 | Lunch break :hamburger: |
-| 13:00 - 16:00 | Individual work         |
+| Time          | Desc                       |
+| ------------- | -------------------------- |
+| 10:00 - 10:30 | Hi :wave:                  |
+| 10:30 - 12:00 | **Mini presentations**     |
+| 12:00 - 13:00 | Lunch break :hamburger:    |
+| 13:00 - 16:00 | Analysis / Self reflection |
