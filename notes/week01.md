@@ -64,7 +64,7 @@ Use [this link](https://forms.gle/m86Kb4onY9pJkxH46) if the form does not show u
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds32iX8CcQVGaF28dcFKXv6HsRH1YFtwvZSN_2kCMGWiTEng/viewform?embedded=true" width="100%" height="1889" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {% endraw %}
 
-## Day 03 - Process - [Recording :clapper:]()
+## Day 03 - Process - [Recording :clapper:](https://drive.switch.ch/index.php/s/iwraLDcaQkENt9Y)
 
 ### Themes
 
