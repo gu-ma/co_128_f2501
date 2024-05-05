@@ -88,7 +88,7 @@ Use [this link](https://forms.gle/m86Kb4onY9pJkxH46) if the form does not show u
 | 13:30 - 14:00 | TD Fundamentals - Continued             |
 | 14:00 - 16:00 | Individual work                         |
 
-## Day 04 - Self study (remote / on-site) :house:
+## Day 04 - Self study (remote / on-site) :house: - [Recording - :clapper:](https://drive.switch.ch/index.php/s/qq4YgkLD97hfp3p)
 
 ### Themes
 
@@ -111,7 +111,7 @@ Use [this link](https://forms.gle/m86Kb4onY9pJkxH46) if the form does not show u
 | 13:30 - 14:00 | TD Input (Prepare questions)    |
 | 14:00 - 16:00 | Individual work                 |
 
-## Day 05 - Self study (remote / on-site) :house:
+## Day 05 - Presentation Self study (remote / on-site) :house: - [Recording - :clapper:](https://drive.switch.ch/index.php/s/EmrdND7LdA5pDbj)
 
 ### Themes
 
