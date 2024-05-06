@@ -9,7 +9,7 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 ## Content
 
 - [Week01](notes/week01.md)
-- [Week02](#) - tba
+- [Week02](notes/week02.md)
 
 ## Class
 
