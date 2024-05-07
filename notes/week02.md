@@ -41,15 +41,7 @@ This week we keep practicing our TD moves and we will gradually get into the the
 | 12:00 - 13:00 | Lunch break :hamburger:    |
 | 13:00 - 16:00 | Workshop |
 
-### Themes
-
-TBA
-
-### Schedule
-
-TBA
-
-## Day 03 - [Recording :clapper:](#)
+## Day 03 
 
 ### Themes
 
@@ -61,7 +53,4 @@ TBA
 
 ## Day 05 - Self study (remote / on-site) :house:
 
-### Themes
 
-- Video presentation
-  TBA
