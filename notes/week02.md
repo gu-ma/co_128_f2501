@@ -30,6 +30,9 @@ This week we keep practicing our TD moves and we will gradually get into the the
 
 ### Themes
 
+- Creating parameter UIs [Recording :clapper:](https://drive.switch.ch/index.php/s/oQ8MKUwwkq3MyBD?path=%2Fcolabor24#/files_mediaviewer/parameters%20as%20custom%20uis.mp4)
+- Recording your data [Recording :clapper:](https://drive.switch.ch/index.php/s/oQ8MKUwwkq3MyBD?path=%2Fcolabor24#/files_mediaviewer/recording%20data.mp4)
+
 ### Schedule
 
 | Time          | Desc                       |
@@ -45,14 +48,16 @@ This week we keep practicing our TD moves and we will gradually get into the the
 
 ### Themes
 
-TBA
+Preparing a documentation to show in the afternoon
 
 ### Schedule
 
 | Time          | Desc                             |
 | ------------- | -------------------------------- |
-| 09:00 - 09:15 | Hi :wave:                  |
+| 09:00 - 11:15 | Workshop                  |
+| 11:15 - 12:00 | TD Input (Q&A) |
 | 12:00 - 13:00 | Lunch break :hamburger:    |
+| 13:00 - 13:30 | General TouchDesigner tips based on the worksession so far |
 | 15:00 - 16:00   | presentation of weekly deliverables, 10 minutes per group including discussion  |
 
 ## Day 05 - Self study (remote / on-site) :house:
