@@ -30,8 +30,8 @@ This week we keep practicing our TD moves and we will gradually get into the the
 
 ### Themes
 
-- Creating parameter UIs [Recording :clapper:](https://drive.switch.ch/index.php/s/oQ8MKUwwkq3MyBD?path=%2Fcolabor24#/files_mediaviewer/parameters%20as%20custom%20uis.mp4)
-- Recording your data [Recording :clapper:](https://drive.switch.ch/index.php/s/oQ8MKUwwkq3MyBD?path=%2Fcolabor24#/files_mediaviewer/recording%20data.mp4)
+- Creating parameter UIs [Recording :clapper:](https://drive.switch.ch/index.php/s/8wIuimVvZdc3d6w)
+- Recording your data [Recording :clapper:](https://drive.switch.ch/index.php/s/C3TgGzE3FTVxJyN)
 
 ### Schedule
 
