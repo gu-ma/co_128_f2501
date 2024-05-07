@@ -49,7 +49,11 @@ TBA
 
 ### Schedule
 
-TBA
+| Time          | Desc                             |
+| ------------- | -------------------------------- |
+| 09:00 - 09:15 | Hi :wave:                  |
+| 12:00 - 13:00 | Lunch break :hamburger:    |
+| 15:00 - 16:00   | presentation of weekly deliverables, 10 minutes per group including discussion  |
 
 ## Day 05 - Self study (remote / on-site) :house:
 
