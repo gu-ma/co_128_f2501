@@ -26,7 +26,20 @@ This week we keep practicing our TD moves and we will gradually get into the the
 | 13:30 - 14:00 | TD input (Q&A)                   |
 | 14:00 - 16:00 | Group work                       |
 
-## Day 02 - [Recording :clapper:](#)
+## Day 02 - Workshop
+
+### Themes
+
+### Schedule
+
+| Time          | Desc                       |
+| ------------- | -------------------------- |
+| 09:00 - 09:15 | Hi :wave:                  |
+| 09:15 - 09:30 | Reflections on yesterdays work     |
+| 09:30 - 11:15 | Workshop |
+| 11:15 - 12:00 | TD Input (Q&A) |
+| 12:00 - 13:00 | Lunch break :hamburger:    |
+| 13:00 - 16:00 | Workshop |
 
 ### Themes
 
