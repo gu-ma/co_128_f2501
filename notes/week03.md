@@ -2,7 +2,7 @@
 
 This week we go a step further into the colabor theme, refine the groupwork and continue refining our workflow.
 
-## Day 01 - [Recording :clapper:](#)
+## Day 01 - [Recording :clapper:](https://drive.switch.ch/index.php/s/fDEvECvd4PHB3RE)
 
 ### Themes
 
