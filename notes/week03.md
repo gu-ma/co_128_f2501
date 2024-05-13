@@ -25,9 +25,9 @@ This week we go a step further into the colabor theme, refine the groupwork and 
 
 ### Check list
 
-- [ ] Licenses (they should test if they can get the floating cloud licences from the software kiosk of hslu)
+- [ ] Licenses (get the floating cloud licences from the IT dtp)
 - [ ] Group work (how to rotate hardware so that it’s faire for everyone, how to split work in groups)
-- [ ] Space for exhibition, discuss options (Diptych: documentation + interactive artwork?)
+- [ ] Space for festival, discuss options (Diptych: documentation + interactive artwork?)
 - [ ] Concept development
 - [ ] Deliverable this week: documentation + sketches
 
