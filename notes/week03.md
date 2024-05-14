@@ -31,15 +31,23 @@ This week we go a step further into the colabor theme, refine the groupwork and 
 - [ ] Concept development
 - [ ] Deliverable this week: documentation + sketches
 
-## Day 02 - 
+## Day 02 - [Recording :clapper:](https://drive.switch.ch/index.php/s/d9YLgWKPa9KoKfy)
 
 ### Themes
 
-TBA
+- Admin (visit, hubs, etc...)
+- Inspiration
+- Colabor theme (delving in)
 
 ### Schedule
 
-TBS
+| Time          | Desc                    |
+| ------------- | ----------------------- |
+| 9:00 - 9:15   | Hi :wave:               |
+| 9:15 - 10:00  | Inspiration, etc...     |
+| 10:30 - 12:00 | Research                |
+| 12:00 - 13:00 | Lunch break :hamburger: |
+| 13:00 - 16:00 | Hubs                    |
 
 ## Day 03
 
