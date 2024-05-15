@@ -49,23 +49,21 @@ This week we go a step further into the colabor theme, refine the groupwork and 
 | 12:00 - 13:00 | Lunch break :hamburger: |
 | 13:00 - 16:00 | Hubs                    |
 
-## Day 03 
+## Day 03 - [Recording :clapper:](https://drive.switch.ch/index.php/s/o5873tF9dyRxWaA)
 
 ### Themes
 
 - Technical support to bring your concept to life
 - Intermediate TouchDesigner topics (optional) [Recording :clapper:](paste link here guillaume :))
-	- Using Zig Sim to send sensor data from your phone to TouchDesigner
-	- Working with python
-	- Performance optimization
-
+  - Using Zig Sim to send sensor data from your phone to TouchDesigner
+  - Working with python
+  - Performance optimization
 
 ### Schedule
 
-| Time          | Desc                    |
-| ------------- | ----------------------- |
-| 9:00 - 9:15   | Hi :wave:               |
-| 9:15 - 11:15 | Group work |
+| Time          | Desc                                  |
+| ------------- | ------------------------------------- |
+| 9:00 - 9:15   | Hi :wave:                             |
+| 9:15 - 11:15  | Group work                            |
 | 11:15 - 12:00 | Intermediate TouchDesigner (optional) |
-| 13:00 - 16:00 | Hubs                    |
-
+| 13:00 - 16:00 | Hubs                                  |
