@@ -25,13 +25,13 @@ Basel visit
 | 13:45         | Meet @hek                                               |
 | 14:00 - 15:00 | Guided tour @hek                                        |
 
-## Day 03 - 05.22 - [Recordind :clapper:](https://drive.switch.ch/index.php/s/m751iLgs43wO4Qt)
+## Day 03 - 05.22 - [Recording :clapper:](https://drive.switch.ch/index.php/s/m751iLgs43wO4Qt)
 
 Work on site
 
 ### Themes
 
-- Feedback on projects - [Recordind :clapper:](https://drive.switch.ch/index.php/s/m751iLgs43wO4Qt)
+- Feedback on projects - [Recording :clapper:](https://drive.switch.ch/index.php/s/m751iLgs43wO4Qt)
 - Group work
 - Tests
 
