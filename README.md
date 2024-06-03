@@ -13,6 +13,7 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 - [Week03](notes/week03.md)
 - [Week04](notes/week04.md)
 - [Week05](notes/week05.md)
+- [Week06](notes/week06.md)
 
 ## Class
 
