@@ -1,5 +1,11 @@
 # Crafting interactive narratives for art & design
 
+## Theme
+
+
+
+ ![Exhaustion](./assets/logo.png)
+
 ## Intro
 
 At the intersection of art, technology, and human interaction, in this module, we will explore the expansive world of interactive multimedia art and try to uncover the potential of visual storytelling mixed with interactive experiences. We will explore together how interactions have evolved over time and how we can adapt them to convey stories. We will research and analyse past and present projects and apply our findings to our own work.
@@ -9,11 +15,11 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 ## Content
 
 - [Week01](notes/week01.md)
-- [Week02](notes/week02.md)
-- [Week03](notes/week03.md)
-- [Week04](notes/week04.md)
-- [Week05](notes/week05.md)
-- [Week06](notes/week06.md)
+- [Week02 - TBA](#)
+- [Week03 - TBA](#)
+- [Week04 - TBA](#)
+- [Week05 - TBA](#)
+- [Week06 - TBA](#)
 
 ## Class
 

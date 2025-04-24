@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
-title: CO_128_F4201
-# description: Winter 2019
+title: CO_128_F2501
 show_downloads: "true"
 plugins:
   - jemoji
