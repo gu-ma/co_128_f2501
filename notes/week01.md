@@ -26,8 +26,8 @@ This week we focus on learning the basis of TD and start experimenting with the 
 
 ### Entry ticket
 
-Use [this link](https://forms.gle/P2saZjSdj3efVjob7) if the form does not show up below
+Use [this link](https://forms.gle/LGh1JpLbkQoaNWgXA) and please fill the form ✏️
 
-## Day 02 - Tools - [Recording :clapper:](#)
+## Day 02 - Tools
 
 TBA
