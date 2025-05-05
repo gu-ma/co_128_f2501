@@ -15,7 +15,7 @@ The workshop is a combination of hands-on exercises, technical instruction, arti
 ## Content
 
 - [Week01](notes/week01.md)
-- [Week02](notes/archive/week2.md)
+- [Week02](notes/week02_Data2Touchdesigner/week02.md)
 - [Week03 - TBA](#)
 - [Week04 - TBA](#)
 - [Week05 - TBA](#)
