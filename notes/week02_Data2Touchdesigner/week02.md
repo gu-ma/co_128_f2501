@@ -42,3 +42,22 @@ This week we keep practicing our TD moves and we will gradually get into the the
 | 13:00 - 14:00 | Reflections on yesterdays work |
 | 14:00 - 15:00 | on Development of a Storyworld |
 | 15:00 - 16:00 | Sketching a Prototype          |
+
+## Day 03
+
+### Themes
+
+### Schedule
+
+| Time          | Desc                                                                           |
+| ------------- | ------------------------------------------------------------------------------ |
+| 09:00 - 11:15 | Workshop                                                                       |
+| 11:15 - 12:00 | TD Input (Q&A)                                                                 |
+| 12:00 - 13:00 | Lunch break :hamburger:                                                        |
+| 13:00 - 13:30 | General TouchDesigner tips based on the worksession so far                     |
+| 15:00 - 16:00 | presentation of weekly deliverables, 10 minutes per group including discussion |
+
+
+## Day 04 Mentorat :brain: / Self study (remote / on-site) :house:
+
+## Day 05 - Self study (remote / on-site) :house:
