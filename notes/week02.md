@@ -1,6 +1,6 @@
 This week we keep practicing our TD moves and we will gradually get into the theme of this year Colabor
 
-## Day 01 
+## Day 01
 
 ### Themes
 
@@ -47,16 +47,23 @@ This week we keep practicing our TD moves and we will gradually get into the the
 
 ### Themes
 
+Ideation + History of interactive art
+
 ### Schedule
 
 | Time          | Desc                                                                           |
 | ------------- | ------------------------------------------------------------------------------ |
-| 09:00 - 11:15 | Workshop                                                                       |
-| 11:15 - 12:00 | TD Input (Q&A)                                                                 |
+| 09:00 - 09:30 | Catching Up                                                                    |
+| 09:30 - 12:00 | Workshop                                                                       |
 | 12:00 - 13:00 | Lunch break :hamburger:                                                        |
-| 13:00 - 13:30 | General TouchDesigner tips based on the worksession so far                     |
+| 13:00 - 13:30 | Discussions / exchange based on the worksession so far                         |
 | 15:00 - 16:00 | presentation of weekly deliverables, 10 minutes per group including discussion |
 
+### Content
+
+[Litterarture](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
+[Slides](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
+[Content](./week02_day03.md)
 
 ## Day 04 Mentorat :brain: / Self study (remote / on-site) :house:
 
