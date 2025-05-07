@@ -61,9 +61,9 @@ Ideation + History of interactive art
 
 ### Content
 
-[Litterarture](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
-[Slides](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
-[Content](./week02_day03.md)
+* [Litterarture](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
+* [Slides](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
+* [Content](./week02_day03.md)
 
 ## Day 04 Mentorat :brain: / Self study (remote / on-site) :house:
 
