@@ -43,6 +43,10 @@ This week we keep practicing our TD moves and we will gradually get into the the
 | 14:00 - 15:00 | on Development of a Storyworld |
 | 15:00 - 16:00 | Sketching a Prototype          |
 
+### Content
+
+[Data2Touchdesigner - TouchDesigner-Firmata Interface](./week02_Data2Touchdesigner/)
+
 ## Day 03
 
 ### Themes
@@ -61,7 +65,7 @@ Ideation + History of interactive art
 
 ### Content
 
-* [Litterarture](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
+* [Litterature](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
 * [Slides](https://drive.switch.ch/index.php/s/YiL4AjJKPmhpSad)
 * [Content](./week02_day03.md)
 
