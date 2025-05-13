@@ -13,7 +13,7 @@ TouchDesigner
 Files in this Project
 
 Serial2Touchdesigner.ino: Arduino sketch for reading IMU data from the XIAO BLE Sense and sending it over serial
-Serial2Touchdesigner.1.toe: TouchDesigner file for receiving and visualizing the IMU data
+Serial2Touchdesigner.4.toe: TouchDesigner file for receiving and visualizing the IMU data
 
 Setup Instructions
 Arduino Setup
@@ -35,7 +35,7 @@ Temperature
 
 TouchDesigner Setup
 
-Open TouchDesigner and load the Serial2Touchdesigner.1.toe file
+Open TouchDesigner and load the Serial2Touchdesigner.4.toe file
 Configure the serial port in TouchDesigner to match the port your XIAO BLE Sense is connected to
 The data should now be streaming from the microcontroller to TouchDesigner
 
